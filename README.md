@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @meggy236
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on Websites (FrontEnd/BackEnd/Design)
-- 📫 How to reach me: https://twitter.com/meggy236
+- 📫 How to reach me - Linkedin: https://www.linkedin.com/in/megan-sych-988a8725b
 
 <!---
 meggy236/meggy236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
