@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meggy236
+- 👋 Hi, I’m @meggy236 or Meggy
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning C++ & Cyber Security
 - 💞️ I’m looking to collaborate on Websites (FrontEnd/BackEnd/Design)
