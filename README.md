@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meggy236 or Meggy
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning C++ & Cyber Security
+- 🌱 I’m currently learning php, .vue, & Cyber Security
 - 💞️ I’m looking to collaborate on Websites (FrontEnd/BackEnd/Design)
 - 📫 How to reach me - Linkedin: https://www.linkedin.com/in/megan-sych-988a8725b
 
